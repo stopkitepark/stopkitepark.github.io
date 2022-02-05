@@ -1,20 +1,20 @@
 # --- Required options --- #
 
 # [수정필요] 웹 페이지 이름
-title: Konkuk Univ CCC
+title: stopkite park 
 
 # [수정필요] 간단한 사이트 설명
-description: Konkuc Univercity Campus Crusade for Crist
+description: seoyeon's site
 
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
-author: KUCCC
+author: Park Seo Yeon
 
 # --- List of links in the navigation bar --- #
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 Post 라는 항목을 네비게이션 바에 추가하고 싶은 경우, post.md 파일 생성 후 ETRI: "post" 라고 지정.
 # 세부 항목을 추가하고 싶으면 - 를 이용하여 하위 구조를 추가할 수 있음.
 navbar-links:
-  GitHub: "https://github.com/konkuk-univ-ccc"
+  GitHub: "https://github.com/stopkitepark"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -24,7 +24,7 @@ navbar-links:
 # --- Logo --- #
 
 # [수정필요] 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
-avatar: "/assets/img/kuccc-logo.jpeg"
+avatar: "/assets/img/install-steps.gif"
 
 # 원형 아바타 이미지 여부 `true` 또는 `false`
 round-avatar: true
@@ -42,17 +42,17 @@ social-network-links:
 #  email: "someone@example.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: konkuk-univ-ccc
+  github: stopkitepark
 #  twitter: daattali
 #  patreon: DeanAttali
-  youtube: channel/UCbid8w7HhGuqAIhACWpisSg
+  #youtube: channel/UCbid8w7HhGuqAIhACWpisSg
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: ccc_konkuk
+  instagram: seoyeon_p02
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
